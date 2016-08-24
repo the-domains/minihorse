@@ -1,0 +1,14 @@
+layout_spectrum: 0.6757978412788361
+typography_spectrum: 0.7224657342303544
+color:
+  brandStrength: 0.10159865417517722
+  lightness: 0.920877680182457
+  saturation: 0.2765407022088766
+  rhythmicContrast: 0.18002112000249326
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+name: minihorse
