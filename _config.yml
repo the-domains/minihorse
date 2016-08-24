@@ -16,5 +16,8 @@ navigation:
   - name: bandcamp
     url: 'http://mnihrs.bandcamp.com'
     type: external
+  - name: soundcloud
+    url: 'https://soundcloud.com/mnihrs'
+    type: external
 title: minihorse
 description: is a band
