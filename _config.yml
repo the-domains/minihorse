@@ -1,4 +1,3 @@
-layout_spectrum: 0.6757978412788361
 typography_spectrum: 0.7224657342303544
 color:
   brandStrength: 0.10159865417517722
@@ -6,9 +5,11 @@ color:
   saturation: 0.2765407022088766
   rhythmicContrast: 0.18002112000249326
   brandColors:
-    - '#000000'
-    - '#263248'
-    - '#7E8AA2'
-    - '#FFFFFF'
-    - '#FF9800'
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+layout_spectrum: 0.6757978412788361
 name: minihorse
+description: is a band
